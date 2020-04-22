@@ -29,7 +29,7 @@ jsproxy_config({
     'mysite': {
       label: '当前站点',
       lines: {
-        [location.host]: 1,
+        '192.3.213.56.xip.io:8443': 1,
       }
     },
     // 该节点用于加载大体积的静态资源
